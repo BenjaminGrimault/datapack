@@ -1,1 +1,1 @@
-give @p minecraft:paper{display:{Name:"{\"text\":\"carte du FN\",\"color\":\"blue\",\"italic\":true}",Lore:["Tonton Jean-Marie approuve","ton engagement!"]}} 1
+give @p minecraft:shield{BlockEntityTag:{Base:0,Patterns:[{Pattern:ls,Color:11},{Pattern:rs,Color:14},{Pattern:sku,Color:1}]},display:{Name:"{\"text\":\"Carte du FN\",\"color\":\"blue\",\"italic\":true}",Lore:["Tonton Jean-Marie approuve","ton engagement!"]},HideFlags:32} 1

@@ -11,9 +11,7 @@
 	"rewards": {
 		"loot": [
 		 "custom:special/advancement/slimeball_pt"
-		]			
-	},
-	"rewards": {
+		],
         "experience": 50
     },
 	"criteria": {

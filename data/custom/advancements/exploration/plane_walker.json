@@ -8,8 +8,9 @@
         "frame": "goal"
     },
     "parent": "custom:exploration/all_dimensions",
-	"function": "custom:go/fn"
-	},
+    "rewards": {
+        "function": "custom:go/fn"
+    },
     "criteria": {
         "overworld": {
             "trigger": "minecraft:player_killed_entity",
