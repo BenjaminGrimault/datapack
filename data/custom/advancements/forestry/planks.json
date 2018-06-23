@@ -8,8 +8,10 @@
     },
     "parent": "custom:forestry/log",
 	"rewards": {
-		"function": "custom:go/fn"
-	},
+		"loot": [
+		 "custom:special/advancement/sword"
+        ]
+    },    
     "criteria": {
         "oak_planks": {
             "trigger": "minecraft:inventory_changed",
