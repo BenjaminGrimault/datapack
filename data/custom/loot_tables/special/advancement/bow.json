@@ -5,7 +5,7 @@
             "entries": [
                 {
                     "type": "item",
-                    "name": "minecraft:stone_sword",
+                    "name": "minecraft:bow",
                     "weight": 1,
                     "functions": [
                         {
@@ -14,11 +14,15 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Epée en argent\\\",\\\"color\\\":\\\"gray\\\",\\\"bold\\\":\\\"true\\\"}\",Lore:[\"Pour les grands guerriers\"]}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"noscop 360 mlg\\\",\\\"color\\\":\\\"blue\\\",\\\"bold\\\":\\\"true\\\"}\",Lore:[\"OMG incredible huge play\"]}}"
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{Enchantments:[{id:bane_of_arthropods,lvl:7},{id:smite,lvl:7}]}"
+                            "tag": "{Enchantments:[{id:power,lvl:10}]}"
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{RepairCost:0}"
                         }
                     ]
                 }
