@@ -1,0 +1,56 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:pufferfish_bucket"
+		},
+		"title": "Aquarium",
+		"description": "Tous les poisson avec un sceau",
+		"frame": "goal"
+	},
+	"parent": "custom:ocean/tactical_fishing",
+	"rewards": {
+		"function": "custom:go/nemo"
+	},
+	"criteria": {
+		"cod": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:cod_bucket"
+					}
+				]
+			}
+		},
+		"salmon": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:salmon_bucket"
+					}
+				]
+			}
+		},
+		"pufferfish": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:pufferfish_bucket"
+					}
+				]
+			}
+		},
+		"tropical_fish": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:clownfish_bucket"
+					}
+				]
+			}
+		}
+	}
+}

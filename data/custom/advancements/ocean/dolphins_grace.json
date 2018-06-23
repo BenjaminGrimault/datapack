@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:cod"
+        },
+        "title": "Flipper !",
+        "description": "Traverse l'eau avec les dauphins"
+    },
+    "parent": "custom:ocean/frost_walker",
+    "criteria": {
+        "dolphins_grace": {
+            "trigger": "minecraft:effects_changed",
+            "conditions": {
+                "effects": {
+                    "minecraft:dolphins_grace": {}
+                }
+            }
+        }
+    }
+}

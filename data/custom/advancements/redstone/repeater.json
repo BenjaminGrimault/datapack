@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:repeater"
+        },
+        "title": "Encore !",
+        "description": "Crée et place un repeater"
+    },
+    "parent": "custom:redstone/redstone_torch",
+    "criteria": {
+        "repeater": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:repeater"
+            }
+        }
+    }
+}

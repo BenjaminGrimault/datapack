@@ -1,0 +1,48 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:trident"
+		},
+		"title": "La perfection des océans",
+		"description": "Crée un trident parfait",
+		"frame": "challenge"
+	},
+	"parent": "custom:ocean/throw_trident",
+	"rewards": {
+		"function": "custom:go/noye"
+	},
+	"criteria": {
+		"trident": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:trident",
+						"enchantments": [
+							{
+								"enchantment": "minecraft:loyalty",
+								"levels": 3
+							},
+							{
+								"enchantment": "minecraft:impaling",
+								"levels": 5
+							},
+							{
+								"enchantment": "minecraft:channeling",
+								"levels": 1
+							},
+							{
+								"enchantment": "minecraft:unbreaking",
+								"levels": 3
+							},	
+							{
+								"enchantment": "minecraft:mending",
+								"levels": 1
+							}
+						]
+					}
+				]
+			}
+		}
+	}
+}

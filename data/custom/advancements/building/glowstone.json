@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:glowstone"
+        },
+        "title": "Pierre qui brille",
+        "description": "Pose une glowstone"
+    },
+    "parent": "custom:building/torch",	     
+    "criteria": {
+        "glowstone": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:glowstone"
+            }
+        }
+    }
+}

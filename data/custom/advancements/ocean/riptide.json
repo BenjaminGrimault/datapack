@@ -1,0 +1,31 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:trident"
+		},
+		"title": "Le saumon humain",
+		"description": "Déplace toi grace à l'enchantement Riptide"
+	},
+	"parent": "custom:ocean/bubble_column",
+	"criteria": {
+		"riptide": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:trident",
+						"enchantments": [
+							{
+								"enchantment": "minecraft:riptide",
+								"levels": {
+									"max": 3,
+									"min": 1
+								}
+							}
+						]
+					}
+				]
+			}
+		}
+	}
+}

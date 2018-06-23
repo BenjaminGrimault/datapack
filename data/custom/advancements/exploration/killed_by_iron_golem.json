@@ -1,0 +1,26 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:iron_block"
+		},
+		"title": "Rekt !",
+		"description": "Meurs par un golem défendant son village",
+		"frame": "goal"
+	},
+	"parent": "custom:exploration/build_iron_golem",
+	"rewards": {
+		"loot": [
+		 "custom:special/advancement/poppy"
+		]			
+	},
+	"criteria": {
+		"iron_golem": {
+			"trigger": "minecraft:entity_killed_player",
+			"conditions": {
+				"entity": {
+					"type": "minecraft:villager_golem"
+				}
+			}
+		}
+	}
+}

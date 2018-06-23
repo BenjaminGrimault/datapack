@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:dried_kelp_block"
+		},
+		"title": "Bloc de véganisme",
+		"description": "Fait un bloc d'algues"
+	},
+	"parent": "custom:ocean/dried_kelp",
+	"criteria": {
+		"dried_kelp_block": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:dried_kelp_block"
+					}
+				]
+			}
+		}
+	}
+}

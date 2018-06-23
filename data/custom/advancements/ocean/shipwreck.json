@@ -1,0 +1,18 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:spruce_boat"
+		},
+		"title": "Sous-marin en bois",
+		"description": "Trouve une épave"
+	},
+	"parent": "custom:ocean/root",
+	"criteria": {
+		"shipwreck": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"feature": "Shipwreck"
+			}
+		}
+	}
+}

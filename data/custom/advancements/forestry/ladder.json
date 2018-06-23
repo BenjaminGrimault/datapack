@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:ladder"
+        },
+        "title": "Aller plus haut",
+        "description": "Crée une échelle"
+    },
+    "parent": "custom:forestry/stick",	     
+    "criteria": {
+        "ladder": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:ladder"
+            }
+        }
+    }
+}

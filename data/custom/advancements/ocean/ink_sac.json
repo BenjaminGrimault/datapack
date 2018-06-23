@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:ink_sac"
+		},
+		"title": "De l'encre !",
+		"description": "Récupère des sacs d'encre"
+	},
+	"parent": "custom:ocean/root",
+	"criteria": {
+		"ink_sac": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:ink_sac"
+					}
+				]
+			}
+		}
+	}
+}

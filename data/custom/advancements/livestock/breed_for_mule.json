@@ -1,0 +1,23 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:golden_carrot"
+		},
+		"title": "Fort caractère",
+		"description": "Fais une mule"
+	},
+	"parent": "custom:livestock/tame_horse",
+	"criteria": {
+		"mule": {
+			"trigger": "minecraft:bred_animals",
+			"conditions": {
+				"parent": {
+					"type": "minecraft:horse"
+				},
+				"partner": {
+					"type": "minecraft:donkey"
+				}
+			}
+		}
+	}
+}

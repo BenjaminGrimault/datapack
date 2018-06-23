@@ -1,0 +1,21 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:dark_prismarine"
+		},
+		"title": "Le gros poisson",
+		"description": "Tue un elder guardian",
+		"frame": "goal"
+	},
+	"parent": "custom:ocean/enter_monument",
+	"criteria": {
+		"elder_guardian": {
+			"trigger": "minecraft:player_killed_entity",
+			"conditions": {
+				"entity": {
+					"type": "elder_guardian"
+				}
+			}
+		}
+	}
+}

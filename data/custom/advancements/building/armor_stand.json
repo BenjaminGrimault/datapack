@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:armor_stand"
+        },
+        "title": "L'armor stand",
+        "description": "Trop d'armures à montrer"
+    },
+    "parent": "custom:building/item_frame",
+	"rewards": {
+		"loot": [
+		 "custom:special/advancement/gold_armor"
+		]	
+	},	
+    "criteria": {
+        "armor_stand": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:armor_stand"
+                    }
+                ]
+            }
+        }
+    }       
+}

@@ -1,0 +1,23 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:turtle_helmet"
+		},
+		"title": "Défense ultime",
+		"description": "Mets une carapace de tortue",
+		"frame": "goal"
+	},
+	"parent": "custom:ocean/scute",
+	"criteria": {
+		"turtle_shell": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:turtle_helmet"
+					}
+				]
+			}
+		}
+	}
+}

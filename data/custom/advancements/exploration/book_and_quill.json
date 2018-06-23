@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:writable_book"
+		},
+		"title": "Le journal intime",
+		"description": "Crée un journal"
+	},
+	"parent": "custom:exploration/make_map",
+	"criteria": {
+		"book_and_quill": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:writable_book"
+					}
+				]
+			}
+		}
+	}
+}

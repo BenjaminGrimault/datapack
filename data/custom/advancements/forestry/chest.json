@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:chest"
+        },
+        "title": "La boîte",
+        "description": "Crée un coffre"
+    },
+    "parent": "custom:forestry/planks",	
+    "criteria": {
+        "chest": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:chest"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:redstone_lamp"
+        },
+        "title": "Éclairage classe",
+        "description": "Pose une redstone lamp"
+    },
+    "parent": "custom:building/glowstone",	     
+    "criteria": {
+        "redstone_lamp": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:redstone_lamp"
+            }
+        }
+    }
+}

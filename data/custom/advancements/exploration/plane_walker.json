@@ -1,0 +1,48 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:ender_pearl"
+        },
+        "title": "Votant FN n'est-ce pas?",
+        "description": "Tue un enderman dans chaque dimension",
+        "frame": "goal"
+    },
+    "parent": "custom:exploration/all_dimensions",
+	"function": "custom:go/fn"
+	},
+    "criteria": {
+        "overworld": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:enderman",
+                    "location": {
+                        "dimension": "overworld"
+                    }
+                }
+            }
+        },
+        "nether": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:enderman",
+                    "location": {
+                        "dimension": "the_nether"
+                    }
+                }
+            }
+        },
+		"end": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:enderman",
+                    "location": {
+                        "dimension": "the_end"
+                    }
+                }
+            }
+        }
+    }
+}

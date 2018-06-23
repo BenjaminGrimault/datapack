@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:scute"
+		},
+		"title": "Petite tortue deviendra grande",
+		"description": "Récupère une écaille de torture"
+	},
+	"parent": "custom:ocean/turtle_egg",
+	"criteria": {
+		"scute": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:scute"
+					}
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:lead"
+		},
+		"title": "Sortir le chien",
+		"description": "Crée une laisse"
+	},
+	"parent": "custom:livestock/root",
+	"criteria": {
+		"lead": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:lead"
+					}
+				]
+			}
+		}
+	}
+}

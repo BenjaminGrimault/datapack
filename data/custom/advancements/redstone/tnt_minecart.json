@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:tnt_minecart"
+        },
+        "title": "La mort sur roulette",
+        "description": "Mets une TNT dans un minecart"
+    },
+    "parent": "custom:redstone/tnt",	
+    "criteria": {
+        "tnt_minecart": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:tnt_minecart"
+                    }
+                ]
+            }
+        }
+    }
+}

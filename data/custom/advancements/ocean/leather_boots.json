@@ -1,0 +1,20 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:leather_boots"
+		},
+		"title": "1.1 % de chance",
+		"description": "Pêche des bottes en cuir"
+	},
+	"parent": "custom:ocean/real_fish",
+	"criteria": {
+		"leather_boots": {
+			"trigger": "minecraft:fishing_rod_hooked",
+			"conditions": {
+				"item": {
+					"item": "minecraft:leather_boots"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:sticky_piston"
+        },
+        "title": "Ca colle et ça pousse",
+        "description": "Crée et place un sticky piston"
+    },
+    "parent": "custom:redstone/piston",
+    "criteria": {
+        "piston": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:sticky_piston"
+            }
+        }
+    }
+}

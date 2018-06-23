@@ -1,0 +1,21 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:slime_ball"
+		},
+		"title": "Le complot de Kuzco !",
+		"description": "Meurs d'un lama",
+		"frame": "goal"
+	},
+	"parent": "custom:livestock/tame_a_mob",
+	"criteria": {
+		"llama": {
+			"trigger": "entity_killed_player",
+			"conditions": {
+				"entity": {
+					"type": "minecraft:llama"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:prismarine"
+		},
+		"title": "La future usine à guardian",
+		"description": "Entre dans un temple aquatique"
+	},
+	"parent": "custom:ocean/ocean_ruins",
+	"criteria": {
+		"monument": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"feature": "Monument"
+			}
+		}
+	}
+}

@@ -1,0 +1,58 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:pufferfish"
+		},
+		"title": "Le pêcheur",
+		"description": "Tous les poissons !",
+		"frame": "goal"
+	},
+	"parent": "custom:ocean/cooked_fish",
+	"rewards": {
+		"loot": [
+		 "custom:special/advancement/fishy"
+		]			
+	},
+	"criteria": {
+		"cod": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:cod"
+					}
+				]
+			}
+		},
+		"salmon": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:salmon"
+					}
+				]
+			}
+		},
+		"clownfish": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:clownfish"
+					}
+				]
+			}
+		},
+		"pufferfish": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:pufferfish"
+					}
+				]
+			}
+		}
+	}
+}

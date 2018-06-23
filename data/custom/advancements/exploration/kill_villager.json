@@ -1,0 +1,23 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:iron_sword"
+		},
+		"title": "Philipe !",
+		"description": "Tue un villageois (c'est pas bien)"
+	},
+	"parent": "custom:exploration/trade",
+	"rewards": {
+		"function": "custom:go/pauvre_philipe"
+	},
+	"criteria": {
+		"kill_villager": {
+			"trigger": "minecraft:player_killed_entity",
+			"conditions": {
+				"entity": {
+					"type": "minecraft:villager"
+				}
+			}
+		}
+	}
+}

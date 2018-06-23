@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:clay_ball"
+        },
+        "title": "De la clay!",
+        "description": "Creuse de la clay"
+    },
+    "parent": "custom:building/root",	
+    "criteria": {
+        "clay_ball": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:clay_ball"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:diamond_horse_armor"
+		},
+		"title": "Look at my horse",
+		"description": "Trouve une armure pour cheval"
+	},
+	"parent": "custom:livestock/tame_horse",
+	"criteria": {
+		"iron": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:iron_horse_armor"
+					}
+				]
+			}
+		},
+		"gold": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:golden_horse_armor"
+					}
+				]
+			}
+		},
+		"diamond": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:diamond_horse_armor"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"iron",
+			"gold",
+			"diamond"
+		]
+	]
+}

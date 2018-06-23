@@ -1,0 +1,38 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:tipped_arrow"
+		},
+		"title": "De la magie d'elfe",
+		"description": "Obtiens une flèche magique"
+	},
+	"parent": "custom:combat/shoot_arrow",
+	"criteria": {
+		"tipped": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:tipped_arrow"
+					}
+				]
+			}
+		},
+		"spectral": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:spectral_arrow"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"tipped",
+			"spectral"
+		]
+	]
+}

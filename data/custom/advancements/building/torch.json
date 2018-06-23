@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:torch"
+        },
+        "title": "Je vois la lumière !",
+        "description": "Pose des torches"
+    },
+    "parent": "custom:building/root",	     
+    "criteria": {
+        "torch": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:torch"
+            }
+        }
+    }
+}

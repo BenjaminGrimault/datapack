@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:kelp"
+		},
+		"title": "De l'algue",
+		"description": "Récupère de l'algue"
+	},
+	"parent": "custom:ocean/green_in_the_blue",
+	"criteria": {
+		"kelp": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:kelp"
+					}
+				]
+			}
+		}
+	}
+}

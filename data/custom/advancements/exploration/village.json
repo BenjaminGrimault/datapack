@@ -1,0 +1,18 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:oak_door"
+		},
+		"title": "Nous ne sommes pas seuls",
+		"description": "Entre dans un village"
+	},
+	"parent": "custom:exploration/discover_a_structure",
+	"criteria": {
+		"village": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"feature": "Village"
+			}
+		}
+	}
+}

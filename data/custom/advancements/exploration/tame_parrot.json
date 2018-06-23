@@ -1,0 +1,20 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:wheat_seeds"
+		},
+		"title": "Vivre en pirate c'est ça !",
+		"description": "Apprivoise un péroquet"
+	},
+	"parent": "custom:exploration/book_and_quill",
+	"criteria": {
+		"parrot": {
+			"trigger": "minecraft:tame_animal",
+			"conditions": {
+				"entity": {
+					"type": "minecraft:parrot"
+				}
+			}
+		}
+	}
+}

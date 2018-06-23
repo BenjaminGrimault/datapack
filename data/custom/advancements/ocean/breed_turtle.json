@@ -1,0 +1,20 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:seagrass"
+		},
+		"title": "Un bébé tortuuuuuuuuuue",
+		"description": "Fais se reproduire des tortues"
+	},
+	"parent": "custom:ocean/green_in_the_blue",
+	"criteria": {
+		"breed_turtles": {
+			"trigger": "minecraft:bred_animals",
+			"conditions": {
+				"parent": {
+					"type": "minecraft:turtle"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:mycelium"
+		},
+    "title": "Ca existe encore ça ?",
+    "description": "Trouve un biome mushroom"
+	},
+	"parent": "custom:exploration/make_map",
+	"criteria": {
+		"mushroom_biome": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:mushroom_island"
+			}
+		},
+		"mushroom_shore": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:mushroom_island_shore"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"mushroom_biome",
+			"mushroom_shore"
+		]
+	]
+}

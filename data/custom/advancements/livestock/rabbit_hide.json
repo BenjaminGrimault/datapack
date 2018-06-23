@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:rabbit_hide"
+		},
+		"title": "Un quart de chausson",
+		"description": "Tue un lapin pour sa peau"
+	},
+	"parent": "custom:livestock/leather",
+	"criteria": {
+		"rabbit_hide": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:rabbit_hide"
+					}
+				]
+			}
+		}
+	}
+}

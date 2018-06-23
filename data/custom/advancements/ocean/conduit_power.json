@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:conduit"
+        },
+        "title": "La puissance des Océans",
+        "description": "Active un conduit"
+    },
+    "parent": "custom:ocean/treasure",
+    "criteria": {
+        "conduit_power": {
+            "trigger": "minecraft:effects_changed",
+            "conditions": {
+                "effects": {
+                    "minecraft:conduit_power": {}
+                }
+            }
+        }
+    }
+}

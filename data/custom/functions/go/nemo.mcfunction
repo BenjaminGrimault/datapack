@@ -1,0 +1,1 @@
+give @p minecraft:clownfish{display:{Name:"{\"text\":\"Némo\",\"color\":\"red\",\"italic\":true}",Lore:["Aide Némo à retrouver son père","que tu as méchamment kidnappé"]}} 1

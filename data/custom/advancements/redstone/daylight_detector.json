@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:daylight_detector"
+        },
+        "title": "Praise the Sun !",
+        "description": "Crée et pose un daylight detector"
+    },
+    "parent": "custom:redstone/observer",
+    "criteria": {
+        "daylight_detector": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:daylight_detector"
+            }
+        }
+    }
+}

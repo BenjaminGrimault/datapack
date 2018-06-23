@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:brick"
+        },
+        "title": "Une brique !",
+        "description": "Une bébé maison !"
+    },
+    "parent": "custom:building/clay_ball",		
+    "criteria": {
+        "brick": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:brick"
+                    }
+                ]
+            }
+        }
+    }
+}

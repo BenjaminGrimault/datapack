@@ -1,0 +1,1 @@
+give @p minecraft:paper{display:{Name:"{\"text\":\"carte du FN\",\"color\":\"blue\",\"italic\":true}",Lore:["Tonton Jean-Marie approuve","ton engagement!"]}} 1

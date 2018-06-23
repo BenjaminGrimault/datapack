@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:item_frame"
+        },
+        "title": [
+            {"text":"Pour faire "},
+            {"text":"beau","strikethrough":true},
+            {"text":" laguer"}
+        ],
+        "description": "Fabrique un item frame"
+    },
+    "parent": "custom:building/sign",	
+    "criteria": {
+        "item_frame": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:item_frame"
+                    }
+                ]
+            }
+        }
+    }
+}

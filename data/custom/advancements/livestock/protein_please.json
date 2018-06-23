@@ -1,0 +1,71 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:beef"
+		},
+		"title": "Anti-végan",
+		"description": "Tue un animal pour sa viande"
+	},
+	"parent": "custom:livestock/kill_an_animal",
+	"criteria": {
+		"porkchop": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:porkchop"
+					}
+				]
+			}
+		},
+		"beef": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:beef"
+					}
+				]
+			}
+		},
+		"chicken": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:chicken"
+					}
+				]
+			}
+		},
+		"rabbit": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:rabbit"
+					}
+				]
+			}
+		},
+		"mutton": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:mutton"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"porkchop",
+			"beef",
+			"chicken",
+			"rabbit",
+			"mutton"
+		]
+	]
+}

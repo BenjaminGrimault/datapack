@@ -1,0 +1,39 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:seagrass"
+		},
+		"title": "Nager dans la salade",
+		"description": "Nage dans les algues"
+	},
+	"parent": "custom:ocean/root",
+	 "criteria": {
+        "seagrass": {
+            "trigger": "minecraft:enter_block",
+            "conditions": {
+                "block": "minecraft:seagrass"
+            }
+        },
+		"tall_seagrass": {
+			"trigger": "minecraft:enter_block",
+			"conditions": {
+				"block": "minecraft:tall_seagrass"
+			}
+		},
+        "kelp": {
+            "trigger": "minecraft:enter_block",
+            "conditions": {
+                "block": "minecraft:kelp"
+            }
+        }
+    },
+	"requirements": [
+		[
+			"seagrass",
+			"tall_seagrass"
+		],
+		[
+			"kelp"
+		]
+	]
+}

@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:dispenser"
+        },
+        "title": "Distributeur",
+        "description": "Crée et place un dispenser"
+    },
+    "parent": "custom:redstone/dropper",	
+    "criteria": {
+        "dispenser": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:dispenser"
+            }
+        }
+    }
+}

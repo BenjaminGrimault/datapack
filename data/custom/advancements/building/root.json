@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:bricks"
+        },
+        "title": "Construction",
+        "description": "Construis, décore, fais du beau!",
+        "background": "minecraft:textures/blocks/bricks.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },		
+    "criteria": {
+        "place_block": {
+            "trigger": "minecraft:placed_block"
+        }
+    }
+}

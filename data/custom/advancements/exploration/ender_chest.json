@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:ender_chest"
+		},
+		"title": "La boite magique !",
+		"description": "Crée un ender chest"
+	},
+	"parent": "custom:exploration/root",
+	"criteria": {
+		"ender_chest": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+					"item": "minecraft:ender_chest"
+					}
+				]
+			}
+		}
+	}
+}

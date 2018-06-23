@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stick"
+        },
+        "title": "Le baton de la vérité",
+        "description": "Crée un stick"
+    },
+    "parent": "custom:forestry/planks",
+	"rewards": {
+		"loot": [
+		 "custom:special/advancement/stick_of_true"
+		]			
+	},
+    "criteria": {
+        "stick": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stick"
+                    }
+                ]
+            }
+        }
+    }
+}

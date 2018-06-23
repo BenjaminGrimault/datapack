@@ -1,0 +1,18 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:dark_oak_planks"
+		},
+		"title": "Le manoir",
+		"description": "Entre dans une woodland mansion"
+	},
+	"parent": "custom:exploration/village",
+	"criteria": {
+		"mansion": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"feature": "Mansion"
+			}
+		}
+	}
+}

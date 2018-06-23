@@ -1,0 +1,29 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:enchanted_golden_apple"
+		},
+		"title": "La pu-pu-puissance",
+		"description": "Mange une Notch apple",
+		"frame": "challenge"
+	},
+	"parent": "custom:combat/eat_golden_apple",
+	"rewards": {
+		"loot": [
+		 "custom:special/advancement/slimeball_pt"
+		]			
+	},
+	"rewards": {
+        "experience": 50
+    },
+	"criteria": {
+		"notch_apple": {
+			"trigger": "minecraft:consume_item",
+			"conditions": {
+				"item": {
+					"item": "minecraft:enchanted_golden_apple"
+				}
+			}
+		}
+	}
+}
