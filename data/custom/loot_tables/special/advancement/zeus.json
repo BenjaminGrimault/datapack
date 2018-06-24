@@ -5,7 +5,7 @@
             "entries": [
                 {
                     "type": "item",
-                    "name": "minecraft:mob_spawner",
+                    "name": "minecraft:trident",
                     "weight": 1,
                     "functions": [
                         {

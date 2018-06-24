@@ -9,7 +9,9 @@
 	},
 	"parent": "custom:exploration/discover_a_structure",
 	"rewards": {
-        "experience": 250
+        "loot": [
+			"custom:special/advancement/spawner"
+		]
     },
 	"criteria": {
 		"buried_treasure": {
