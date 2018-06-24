@@ -13,7 +13,10 @@
     },
     "parent": "custom:combat/kill_a_mob",
 	"rewards": {
-        "experience": 100
+		"experience": 100,
+		"loot": [
+			"custom:special/advancement/sword"
+		   ]
     },
 	"criteria": {
 		"cave_spider": {
