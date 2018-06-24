@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:fire_charge"
+        },
+        "title": {
+            "translate": "advancements.nether.return_to_sender.title"
+        },
+        "description": {
+            "translate": "advancements.nether.return_to_sender.description"
+        },
+		"frame": "challenge"
+    },
+    "parent": "minecraft:nether/root",
+	"rewards": {
+        "loot": [
+			"custom:special/advancement/larme"
+		]
+    },
+    "criteria": {
+        "kill": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "source_entity": {
+                    "type": "ghast"
+                }
+            }
+        }
+    }
+}

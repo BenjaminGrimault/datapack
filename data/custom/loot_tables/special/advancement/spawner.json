@@ -44,7 +44,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Spawner de skeleton\\\",\\\"color\\\":\\\"gray\\\",\\\"bold\\\":\\\"true\\\"}\"}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Spawner de skeletons\\\",\\\"color\\\":\\\"gray\\\",\\\"bold\\\":\\\"true\\\"}\"}}"
                         }
                     ]
                 },
@@ -59,7 +59,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Spawner de squid\\\",\\\"color\\\":\\\"gray\\\",\\\"bold\\\":\\\"true\\\"}\",Lore:[\"Spawn entre 66 et 46\"]}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Spawner de squids\\\",\\\"color\\\":\\\"gray\\\",\\\"bold\\\":\\\"true\\\"}\",Lore:[\"Les poulpes spawnent entre les couches 46 et 66 dans l'eau\"]}}"
                         }
                     ]
                 },
@@ -74,7 +74,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Spawner de husk\\\",\\\"color\\\":\\\"gray\\\",\\\"bold\\\":\\\"true\\\"}\"}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Spawner de husks\\\",\\\"color\\\":\\\"gray\\\",\\\"bold\\\":\\\"true\\\"}\"}}"
                         }
                     ]
                 },
@@ -89,7 +89,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"spawner de stray\\\",\\\"color\\\":\\\"gray\\\",\\\"bold\\\":\\\"true\\\"}\"}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Spawner de strays\\\",\\\"color\\\":\\\"gray\\\",\\\"bold\\\":\\\"true\\\"}\"}}"
                         }
                     ]
                 },
@@ -104,7 +104,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Spawner de shulker\\\",\\\"color\\\":\\\"gray\\\",\\\"bold\\\":\\\"true\\\"}\",Lore:[\"Une chance sur cent tu es chanceux!!\"]}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Spawner de shulkers\\\",\\\"color\\\":\\\"gray\\\",\\\"bold\\\":\\\"true\\\"}\",Lore:[\"Une chance sur cent tu es chanceux !!\"]}}"
                         }
                     ]
                 }

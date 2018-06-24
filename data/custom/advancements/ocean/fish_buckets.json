@@ -9,7 +9,9 @@
 	},
 	"parent": "custom:ocean/tactical_fishing",
 	"rewards": {
-		"function": "custom:go/nemo"
+		"loot": [
+		 	"custom:special/advancement/nemo"
+		]			
 	},
 	"criteria": {
 		"cod": {
