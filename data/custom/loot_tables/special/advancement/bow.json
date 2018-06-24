@@ -22,7 +22,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{Durability:1}"
+                            "tag": "{Damage:384}"
                         }
                     ]
                 }

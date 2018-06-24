@@ -6,19 +6,109 @@
                 {
                     "type": "item",
                     "name": "minecraft:mob_spawner",
-                    "weight": 1,
+                    "weight": 33,
                     "functions": [
-                        {
-                            "function": "set_count",
-                            "count": 1
-                        },
                         {
                             "function": "set_nbt",
                             "tag": "{BlockEntityTag:{SpawnPotentials:[{Entity:{id:\"minecraft:zombie\"}}],SpawnData:{id:\"minecraft:zombie\"}}}"
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Spawner de zombies\\\",\\\"color\\\":\\\"gray\\\",\\\"bold\\\":\\\"true\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:mob_spawner",
+                    "weight": 33,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{BlockEntityTag:{SpawnPotentials:[{Entity:{id:\"minecraft:spider\"}}],SpawnData:{id:\"minecraft:spider\"}}}"
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Spawner de spiders\\\",\\\"color\\\":\\\"gray\\\",\\\"bold\\\":\\\"true\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:mob_spawner",
+                    "weight": 33,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{BlockEntityTag:{SpawnPotentials:[{Entity:{id:\"minecraft:skeleton\"}}],SpawnData:{id:\"minecraft:skeleton\"}}}"
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Spawner de skeleton\\\",\\\"color\\\":\\\"gray\\\",\\\"bold\\\":\\\"true\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:mob_spawner",
+                    "weight": 33,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{BlockEntityTag:{SpawnPotentials:[{Entity:{id:\"minecraft:squid\"}}],SpawnData:{id:\"minecraft:squid\"}}}"
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Spawner de squid\\\",\\\"color\\\":\\\"gray\\\",\\\"bold\\\":\\\"true\\\"}\",Lore:[\"Spawn entre 66 et 46\"]}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:mob_spawner",
+                    "weight": 33,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{BlockEntityTag:{SpawnPotentials:[{Entity:{id:\"minecraft:husk\"}}],SpawnData:{id:\"minecraft:husk\"}}}"
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Spawner de husk\\\",\\\"color\\\":\\\"gray\\\",\\\"bold\\\":\\\"true\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:mob_spawner",
+                    "weight": 33,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{BlockEntityTag:{SpawnPotentials:[{Entity:{id:\"minecraft:stray\"}}],SpawnData:{id:\"minecraft:stray\"}}}"
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"spawner de stray\\\",\\\"color\\\":\\\"gray\\\",\\\"bold\\\":\\\"true\\\"}\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:mob_spawner",
+                    "weight": 2,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{BlockEntityTag:{SpawnPotentials:[{Entity:{id:\"minecraft:shulker\"}}],SpawnData:{id:\"minecraft:shulker\"}}}"
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Spawner de shulker\\\",\\\"color\\\":\\\"gray\\\",\\\"bold\\\":\\\"true\\\"}\",Lore:[\"Une chance sur cent tu es chanceux!!\"]}}"
                         }
                     ]
                 }
             ]
-        }
+        }           
     ]
 }
