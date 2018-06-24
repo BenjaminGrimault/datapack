@@ -13,7 +13,10 @@
     },
     "parent": "custom:combat/shoot_arrow",
 	"rewards": {
-        "experience": 50
+		"experience": 50,
+		"loot": [
+			"custom:special/advancement/bow"
+		   ]
     },
      "criteria": {
 		"projectile_kill_skeleton": {

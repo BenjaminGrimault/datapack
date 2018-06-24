@@ -10,10 +10,6 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{HideFlags:1}"
-                        },
-                        {
-                            "function": "set_nbt",
                             "tag": "{display:{Name:\"{\\\"text\\\":\\\"Epée en argent\\\",\\\"color\\\":\\\"gray\\\",\\\"bold\\\":\\\"true\\\"}\",Lore:[\"Pour les grands guerriers\"]}}"
                         },
                         {
