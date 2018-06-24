@@ -7,6 +7,11 @@
 		"description": "Tous les coral fans !"
 	},
 	"parent": "custom:collection/coral",
+	"rewards": {
+		"loot": [
+		 "custom:special/advancement/collecte"
+        ]
+    },
 	"criteria": {
 		"tube": {
 			"trigger": "minecraft:inventory_changed",

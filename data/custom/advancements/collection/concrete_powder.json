@@ -7,6 +7,11 @@
 		"description": "Toutes les poudres colorées"
 	},
 	"parent": "custom:collection/sand",
+	"rewards": {
+		"loot": [
+		 "custom:special/advancement/collecte"
+        ]
+    },
 	"criteria": {
 		"white": {
 			"trigger": "minecraft:inventory_changed",

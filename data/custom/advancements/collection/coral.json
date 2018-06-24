@@ -7,6 +7,11 @@
 		"description": "Tous les coraux !"
 	},
 	"parent": "custom:collection/coral_block",
+	"rewards": {
+		"loot": [
+		 "custom:special/advancement/collecte"
+        ]
+    },
 	"criteria": {
 		"tube": {
 			"trigger": "minecraft:inventory_changed",

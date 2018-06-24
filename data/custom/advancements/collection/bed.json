@@ -7,6 +7,11 @@
 		"description": "Toutes les couleurs de lit !"
 	},
 	"parent": "custom:collection/wool",
+	"rewards": {
+		"loot": [
+		 "custom:special/advancement/collecte"
+        ]
+    },
 	"criteria": {
 		"white": {
 			"trigger": "minecraft:inventory_changed",

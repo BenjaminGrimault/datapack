@@ -7,6 +7,11 @@
 		"description": "Toutes les vitres !"
 	},
 	"parent": "custom:collection/glass",
+	"rewards": {
+		"loot": [
+		 "custom:special/advancement/collecte"
+        ]
+    },
 	"criteria": {
 		"white": {
 			"trigger": "minecraft:inventory_changed",

@@ -7,6 +7,11 @@
 		"description": "Tous les blocs de verre !"
 	},
 	"parent": "custom:collection/sand",
+	"rewards": {
+		"loot": [
+		 "custom:special/advancement/collecte"
+        ]
+    },
 	"criteria": {
 		"white": {
 			"trigger": "minecraft:inventory_changed",

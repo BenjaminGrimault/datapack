@@ -7,6 +7,11 @@
 		"description": "Toutes les shulker box"
 	},
 	"parent": "custom:collection/all_dye",
+	"rewards": {
+		"loot": [
+		 "custom:special/advancement/collecte"
+        ]
+    },
 	"criteria": {
 		"normal": {
 			"trigger": "minecraft:inventory_changed",

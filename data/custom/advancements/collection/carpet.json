@@ -6,6 +6,11 @@
 		"title": "Le tisserand",
 		"description": "Tous les tapis !"
 	},
+	"rewards": {
+		"loot": [
+		 "custom:special/advancement/collecte"
+        ]
+    },
 	"parent": "custom:collection/wool",
 	"criteria": {
 		"white": {

@@ -7,6 +7,11 @@
 		"description": "Toutes les terracota !"
 	},
 	"parent": "custom:collection/all_dye",
+	"rewards": {
+		"loot": [
+		 "custom:special/advancement/collecte"
+        ]
+    },
 	"criteria": {
 		"white": {
 			"trigger": "minecraft:inventory_changed",

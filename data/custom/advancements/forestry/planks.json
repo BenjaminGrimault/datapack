@@ -9,7 +9,7 @@
     "parent": "custom:forestry/log",
 	"rewards": {
 		"loot": [
-		 "custom:special/advancement/bow"
+		 "custom:special/advancement/collecte"
         ]
     },    
     "criteria": {

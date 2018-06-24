@@ -7,6 +7,11 @@
 		"description": "Tous les sables !"
 	},
 	"parent": "custom:collection/all_dye",
+	"rewards": {
+		"loot": [
+		 "custom:special/advancement/collecte"
+        ]
+    },
 	"criteria": {
 		"sand": {
 			"trigger": "minecraft:inventory_changed",
