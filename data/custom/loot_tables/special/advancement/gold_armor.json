@@ -6,7 +6,21 @@
                 {
                     "type": "item",
                     "name": "minecraft:golden_helmet",
-                    "weight": 1
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{display:{Lore:[\"Voici une armure en or\",\"que vous êtes pressé d’afficher\",\"sur votre nouvel armor stand,\",\"n’est-ce-pas ?\"]}}"
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Enchantments:[{id:infinity,lvl:5}]}"
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1}"
+                        }
+                    ]
                 }
             ]
         },
@@ -15,8 +29,22 @@
             "entries": [
                 {
                     "type": "item",
-                    "name": "minecraft:golden_boots",
-                    "weight": 1
+                    "name": "minecraft:golden_chestplate",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{display:{Lore:[\"Voici une armure en or\",\"que vous êtes pressé d’afficher\",\"sur votre nouvel armor stand,\",\"n’est-ce-pas ?\"]}}"
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Enchantments:[{id:infinity,lvl:5}]}"
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1}"
+                        }
+                    ]
                 }
             ]
         },
@@ -26,7 +54,21 @@
                 {
                     "type": "item",
                     "name": "minecraft:golden_leggings",
-                    "weight": 1
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{display:{Lore:[\"Voici une armure en or\",\"que vous êtes pressé d’afficher\",\"sur votre nouvel armor stand,\",\"n’est-ce-pas ?\"]}}"
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Enchantments:[{id:infinity,lvl:5}]}"
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1}"
+                        }
+                    ]
                 }
 				
             ]
@@ -36,10 +78,23 @@
             "entries": [
                 {
                     "type": "item",
-                    "name": "minecraft:golden_chestplate",
-                    "weight": 1
+                    "name": "minecraft:golden_boots",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{display:{Lore:[\"Voici une armure en or\",\"que vous êtes pressé d’afficher\",\"sur votre nouvel armor stand,\",\"n’est-ce-pas ?\"]}}"
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Enchantments:[{id:infinity,lvl:5}]}"
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{HideFlags:1}"
+                        }
+                    ]
                 }
-				
             ]
         }
     ]

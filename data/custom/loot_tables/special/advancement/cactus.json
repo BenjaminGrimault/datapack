@@ -11,6 +11,10 @@
                         {
                             "function": "set_count",
                             "count": 5
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{display:{Lore:[\"À mettre dans le pot\"]}}"
                         }
                     ]
                 }

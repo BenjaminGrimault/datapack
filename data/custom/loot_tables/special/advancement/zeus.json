@@ -14,7 +14,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{BlockEntityTag:{SpawnPotentials:[{Entity:{id:\"minecraft:zombie\"}}],SpawnData:{id:\"minecraft:zombie\"}}}"
+                            "tag": "{Enchantments:[{id:channeling,lvl:1}]}"
                         }
                     ]
                 }
