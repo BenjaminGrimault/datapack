@@ -9,7 +9,7 @@
     "parent": "custom:forestry/log",
 	"rewards": {
         "loot": [
-            "custom:special/advancement/hoe_farm"
+            "custom:special/advancement/hoe_death"
            ]
     },
     "criteria": {

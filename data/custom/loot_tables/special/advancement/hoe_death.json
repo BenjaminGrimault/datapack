@@ -10,11 +10,15 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Lore:[\"Oh non, votre houe est detruite,\",\"en voici une autre plus solide !\"]}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Death Touch\\\",\\\"color\\\":\\\"red\\\",\\\"bold\\\":\\\"true\\\"}\",Lore:[\"la mort y a laissé sa faux :\",\"elle viendra la rechercher..\"]}}"
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{Enchantments:[{id:unbreaking,lvl:3}]}"
+                            "tag": "{Enchantments:[{id:sharpness,lvl:3},{id:vanishing_curse,lvl:3}]}"
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{RepairCost:500}"
                         }
                     ]
                 }
