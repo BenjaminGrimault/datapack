@@ -13,11 +13,10 @@
     },
     "parent": "minecraft:nether/create_beacon",
 	"rewards": {
-        "experience": 100,
+        "function": "custom:go/pharaon",
         "loot": [
             "custom:special/advancement/emerald_beacon"
-           ],
-           "function": "custom:go/pharaon"
+        ]
 	},
     "criteria": {
         "full_beacon": {

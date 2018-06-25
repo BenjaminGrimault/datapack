@@ -1,0 +1,32 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:map"
+        },
+        "title": {
+            "translate": "Trou de ver"
+        },
+        "description": {
+            "translate": "advancements.nether.fast_travel.description"
+        },
+		"frame": "challenge"
+    },
+    "parent": "minecraft:nether/root",
+	"rewards": {
+        "loot": [
+			"custom:special/advancement/ice_boat"
+		]
+    },
+    "criteria": {
+        "travel": {
+            "trigger": "minecraft:nether_travel",
+            "conditions": {
+                "distance": {
+                    "horizontal": {
+                        "min": 7000
+                    }
+                }
+            }
+        }
+    }
+}

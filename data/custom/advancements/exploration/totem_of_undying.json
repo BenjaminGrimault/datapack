@@ -7,10 +7,15 @@
             "translate": "advancements.adventure.totem_of_undying.title"
         },
         "description": {
-            "translate": "Use a totem of undying to cheat death"
+            "translate": "advancements.adventure.totem_of_undying.description"
         },
         "frame": "goal"
     },
+    "rewards": {
+		"loot": [
+		    "custom:special/advancement/hoe_death"
+		]			
+	},
     "parent": "custom:exploration/enter_mansion",
     "criteria": {
         "totem_of_undying": {

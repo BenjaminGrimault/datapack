@@ -10,7 +10,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"MLG bucket\\\",\\\"color\\\":\\\"blue\\\",\\\"bold\\\":\\\"true\\\"}\",Lore:[\"DO IT! SAUTE!\"]}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"MLG bucket\\\",\\\"color\\\":\\\"blue\\\",\\\"bold\\\":\\\"true\\\"}\",Lore:[\"DO IT ! SAUTE !\"]}}"
                         }
                     ]
                 }

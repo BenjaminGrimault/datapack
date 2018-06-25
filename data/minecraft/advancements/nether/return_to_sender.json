@@ -21,8 +21,13 @@
         "kill": {
             "trigger": "minecraft:player_killed_entity",
             "conditions": {
-                "source_entity": {
+                "entity": {
                     "type": "ghast"
+                },
+                "killing_blow": {
+                    "direct_entity": {
+                        "direct_entity": "large_fireball"
+                    }
                 }
             }
         }

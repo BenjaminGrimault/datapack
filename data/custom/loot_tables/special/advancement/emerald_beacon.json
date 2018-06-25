@@ -10,7 +10,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Lore:[\"De quoi allumer votre beacon!\"]}}"
+                            "tag": "{display:{Lore:[\"De quoi allumer votre beacon !\"]}}"
                         },
                         {
                             "function": "set_nbt",

@@ -18,7 +18,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Le trident de Zeus\\\",\\\"color\\\":\\\"yellow\\\",\\\"bold\\\":\\\"true\\\"}\",Lore:[\"La mythologie,\",\"c'est flou..\"]}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Le trident de Zeus\\\",\\\"color\\\":\\\"yellow\\\",\\\"bold\\\":\\\"true\\\"}\",Lore:[\"La mythologie,\",\"c'est flou...\"]}}"
                         }
                     ]
                 }

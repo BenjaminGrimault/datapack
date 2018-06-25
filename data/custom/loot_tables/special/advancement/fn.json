@@ -14,7 +14,7 @@
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Carte du FN\\\",\\\"color\\\":\\\"red\\\",\\\"bold\\\":\\\"true\\\"}\",Lore:[\"Tonton Jean-Marie approuve\",\"ton engagement!\"]}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Carte du FN\\\",\\\"color\\\":\\\"red\\\",\\\"bold\\\":\\\"true\\\"}\",Lore:[\"Tonton Jean-Marie approuve\",\"ton engagement !\"]}}"
                         },
                         {
                             "function": "set_nbt",

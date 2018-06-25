@@ -4,7 +4,8 @@
 			"item": "minecraft:iron_sword"
 		},
 		"title": "Philipe !",
-		"description": "Tue un villageois (c'est pas bien)"
+		"description": "Tue un villageois (c'est pas bien)",
+		"hidden": true
 	},
 	"parent": "custom:exploration/trade",
 	"rewards": {
