@@ -9,10 +9,9 @@
     "parent": "custom:forestry/log",
 	"rewards": {
         "loot": [
-            "custom:special/advancement/emerald_beacon"
-           ],
-        "function": "custom:go/pharaon"
-    },    
+            "custom:special/advancement/hoe_farm"
+           ]
+    },
     "criteria": {
         "oak_planks": {
             "trigger": "minecraft:inventory_changed",
