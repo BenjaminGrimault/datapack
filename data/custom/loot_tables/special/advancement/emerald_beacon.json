@@ -5,20 +5,20 @@
             "entries": [
                 {
                     "type": "item",
-                    "name": "minecraft:trident",
+                    "name": "minecraft:emerald",
                     "weight": 1,
                     "functions": [
                         {
-                            "function": "set_count",
-                            "count": 1
+                            "function": "set_nbt",
+                            "tag": "{display:{Lore:[\"De quoi allumer votre beacon!\"]}}"
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{Enchantments:[{id:channeling,lvl:1}]}"
+                            "tag": "{HideFlags:1}"
                         },
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Le trident de Zeus\\\",\\\"color\\\":\\\"yellow\\\",\\\"bold\\\":\\\"true\\\"}\",Lore:[\"La mythologie,\",\"c'est flou..\"]}}"
+                            "tag": "{Enchantments:[{id:infinity,lvl:5}]}"
                         }
                     ]
                 }

@@ -13,7 +13,10 @@
     },
     "parent": "end/root",
 	"rewards": {
-		"experience": 500
+        "experience": 500,
+        "loot": [
+            "custom:special/advancement/dragon_head"
+           ]
 	},
     "criteria": {
         "killed_dragon": {

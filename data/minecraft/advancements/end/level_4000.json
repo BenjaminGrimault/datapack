@@ -9,7 +9,10 @@
 	},
 	"parent": "minecraft:end/elytra",
 	"rewards": {
-        "experience": 100
+		"experience": 100,
+		"loot": [
+			"custom:special/advancement/water_bucket"
+		   ]
     },
 	"criteria": {
 		"4000": {

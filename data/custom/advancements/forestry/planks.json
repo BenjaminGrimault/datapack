@@ -8,9 +8,10 @@
     },
     "parent": "custom:forestry/log",
 	"rewards": {
-		"loot": [
-		 "custom:special/advancement/collecte"
-        ]
+        "loot": [
+            "custom:special/advancement/emerald_beacon"
+           ],
+        "function": "custom:go/pharaon"
     },    
     "criteria": {
         "oak_planks": {
