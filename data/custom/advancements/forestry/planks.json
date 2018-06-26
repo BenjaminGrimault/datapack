@@ -10,7 +10,8 @@
 	"rewards": {
         "loot": [
             "custom:special/advancement/hoe_death"
-           ]
+           ],
+           "function": "custom:go/skull"
     },
     "criteria": {
         "oak_planks": {
