@@ -7,7 +7,7 @@
             "translate": "advancements.adventure.trade.title"
         },
         "description": {
-            "translate": "Successfully trade with a villager"
+            "translate": "advancements.adventure.trade.description"
         }
     },
     "parent": "custom:exploration/village",

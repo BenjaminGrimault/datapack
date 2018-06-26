@@ -10,7 +10,7 @@
                     "functions": [
                         {
                             "function": "set_nbt",
-                            "tag": "{display:{Lore:[\"Oh non, votre houe est detruite,\",\"en voici une autre plus solide !\"]}}"
+                            "tag": "{display:{Lore:[\"Oh non, votre houe est detruite !\",\"En voici une autre plus solide !\"]}}"
                         },
                         {
                             "function": "set_nbt",

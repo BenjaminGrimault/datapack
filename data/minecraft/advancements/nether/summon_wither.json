@@ -7,7 +7,7 @@
             "translate": "advancements.nether.summon_wither.title"
         },
         "description": {
-            "translate": "Summon the wither"
+            "translate": "advancements.nether.summon_wither.description"
         },
 		"frame": "challenge"
     },

@@ -4,7 +4,7 @@
             "item": "minecraft:map"
         },
         "title": {
-            "translate": "Trou de ver"
+            "translate": "advancements.nether.fast_travel.title"
         },
         "description": {
             "translate": "advancements.nether.fast_travel.description"
