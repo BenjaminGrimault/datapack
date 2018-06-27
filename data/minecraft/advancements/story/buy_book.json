@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:emerald"
 		},
-		"title": "Magic Merchant",
-		"description": "Buy an enchanted book from a villager"
+		"title": "Raisonable!",
+		"description": "Achète un livre enchanté d'un villageois."
 	},
 	"parent": "minecraft:story/enchant_item",
 	"criteria": {

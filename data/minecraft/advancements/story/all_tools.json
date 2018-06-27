@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:iron_axe"
 		},
-		"title": "MOAR Tools",
-		"description": "Get one of every tool and weapon",
+		"title": "Bob le bricoleurXSkyrim",
+		"description": "Obtient chaque outil et arme.",
 		"frame": "goal"
 	},
 	"parent": "minecraft:story/smelt_iron",

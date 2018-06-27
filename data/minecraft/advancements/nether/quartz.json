@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:quartz"
         },
-        "title": "Crystal Collection",
-        "description": "Mine quartz"
+        "title": "7 sur l'échelle de Mohs",
+        "description": "Mine du quartz"
     },
     "parent": "minecraft:nether/root",
     "criteria": {

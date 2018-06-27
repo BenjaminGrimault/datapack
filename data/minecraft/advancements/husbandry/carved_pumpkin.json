@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:carved_pumpkin"
 		},
-		"title": "Pumpkin Carving",
-		"description": "Carve a face into a pumpkin"
+		"title": "Halloween",
+		"description": "Creuse un visage dans une citrouille."
 	},
 	"parent": "minecraft:husbandry/pumpkin",
 	"criteria": {

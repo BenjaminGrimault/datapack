@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:nether_wart"
         },
-        "title": "Basis to Brew",
-        "description": "Collect nether wart"
+        "title": "Pulstuleux",
+        "description": "Récuère de la nether wart"
     },
     "parent": "minecraft:nether/soul_sand",	
     "criteria": {

@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:rose_bush"
 		},
-		"title": "Full Bouquet",
-		"description": "Pick all the flowers",
+		"title": "Fleuriste",
+		"description": "Toutes les fleurs !",
 		"frame": "goal"
 	},
 	"parent": "minecraft:husbandry/flower",

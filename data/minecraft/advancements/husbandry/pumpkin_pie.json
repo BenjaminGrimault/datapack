@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:pumpkin_pie"
 		},
-		"title": "Thanksgiving Treat",
-		"description": "Eat a pumpkin pie"
+		"title": "Thanksgiving",
+		"description": "Mange une tarte à la citrouille."
 	},
 	"parent": "minecraft:husbandry/pumpkin",
 	"criteria": {

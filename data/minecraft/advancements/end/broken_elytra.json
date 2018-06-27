@@ -4,8 +4,8 @@
             "item": "minecraft:elytra",
 			"durability": 1
         },
-        "title": "Worn Out",
-        "description": "Wear out an elytra",
+        "title": "Pas de cape !",
+        "description": "Use entièrement une paire d'élytre.",
         "frame": "goal"
     },
     "parent": "minecraft:end/elytra",

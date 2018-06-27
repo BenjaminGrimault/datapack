@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:diamond_block"
 		},
-		"title": "I'm Rich!",
-		"description": "Obtain one stack of diamond blocks",
+		"title": "Bling Bling",
+		"description": "Avoir un stack de block de diamant.",
 		"frame": "challenge"
 	},
 	"parent": "minecraft:story/mine_diamond",

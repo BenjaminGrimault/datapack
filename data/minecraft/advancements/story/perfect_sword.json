@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_sword"
         },
-        "title": "Master Knight",
-        "description": "Create a perfect sword",
+        "title": "Gram",
+        "description": "Fait une épée parfaite.",
 		"frame": "challenge"
     },
     "parent": "minecraft:story/mending",

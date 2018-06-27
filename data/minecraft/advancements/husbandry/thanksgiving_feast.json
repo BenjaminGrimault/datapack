@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:cooked_chicken"
 		},
-		"title": "Thanksgiving Feast",
-		"description": "Eat turkey, potatoes, rolls, and pie for your feast",
+		"title": "Thanksgiving 2 : Le festin",
+		"description": "Mange une tarte, une dinde, de la pomme de terre et du pain.",
 		"frame": "goal"
 	},
 	"parent": "minecraft:husbandry/pumpkin_pie",

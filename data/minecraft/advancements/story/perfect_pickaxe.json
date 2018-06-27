@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_pickaxe"
         },
-        "title": "Master Miner",
-        "description": "Create a perfect pickaxe",
+        "title": "Parashu",
+        "description": "Fait une pioche parfaite.",
 		"frame": "challenge"
     },
     "parent": "minecraft:story/mending",

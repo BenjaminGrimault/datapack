@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_helmet"
         },
-        "title": "Master Armorer",
-        "description": "Create a perfect suit of armor",
+        "title": "Armure d'Achille",
+        "description": "fait une armure parfaite",
 		"frame": "challenge"
     },
     "parent": "minecraft:story/mending",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:splash_potion"
         },
-        "title": "Taste of Your Own Medicine",
-        "description": "Kill a witch with a splash potion",
+        "title": "Hansel",
+        "description": "Tue une witch avec une potion splash.",
         "frame": "goal"
     },
     "parent": "minecraft:nether/brew_potion",  
@@ -17,7 +17,6 @@
                 },
                 "killing_blow": {
                     "is_magic": true
-                    }
                 }
             }
         }

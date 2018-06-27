@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:bookshelf"
 		},
-		"title": "Librarian",
-		"description": "Place a bookself to make your enchanting table stronger"
+		"title": "Ou est la bibliothèque?",
+		"description": "Pose une bibliothèque."
 	},
 	"parent": "minecraft:story/enchant_item",
 	"criteria": {

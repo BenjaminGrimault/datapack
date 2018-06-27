@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:furnace"
 		},
-		"title": "Hot Topic",
-		"description": "Make a furnace"
+		"title": "Point godwinn",
+		"description": "Fait un four."
 	},
 	"parent": "minecraft:story/upgrade_tools",
 	"criteria": {

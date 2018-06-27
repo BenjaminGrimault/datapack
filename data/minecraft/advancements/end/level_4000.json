@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:firework_rocket"
 		},
-		"title": "Dizzying Heights",
-		"description": "Fly to Y level 4000",
+		"title": "On voit ma maison de là-haut !",
+		"description": "Vole à une hauteur de 4000.",
 		"frame": "challenge"
 	},
 	"parent": "minecraft:end/elytra",

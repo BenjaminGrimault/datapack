@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:chorus_fruit"
         },
-        "title": "Choir Class",
-        "description": "Attack a chorus tree until it collapses"
+        "title": "Bucheron de l'extreme",
+        "description": "Coupe un arbre de l'end."
     },
     "parent": "minecraft:end/enter_end_gateway",	
     "criteria": {

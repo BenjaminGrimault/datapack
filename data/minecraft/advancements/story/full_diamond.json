@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:diamond_pickaxe"
 		},
-		"title": "The Highest Tier",
-		"description": "Have full diamond tools and armor",
+		"title": "Full T3",
+		"description": "Obtient une armur en diamant et les outils en diamant.",
 		"frame": "challenge"
 	},
 	"parent": "minecraft:story/shiny_gear",

@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:cookie"
 		},
-		"title": "Fat and Lazy",
-		"description": "Eat every dessert",
+		"title": "Vivre pour manger",
+		"description": "Manger tout les déserts.",
 		"frame": "goal"
 	},
 	"parent": "minecraft:husbandry/make_cake",

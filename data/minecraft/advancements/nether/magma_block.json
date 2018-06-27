@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:magma_block"
         },
-        "title": "Lava Infused",
-        "description": "Mine or craft a magma block"
+        "title": "S'accroupir ou brûler",
+        "description": "Récupère un magma block"
     },
     "parent": "minecraft:nether/quartz", 
     "criteria": {

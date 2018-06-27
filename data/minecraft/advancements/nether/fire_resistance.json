@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:magma_cream"
         },
-        "title": "Stayin' Frosty",
-        "description": "Drink a fire resistance potion"
+        "title": "Pompier",
+        "description": "Boit une potion de résistance au feu."
     },
     "parent": "minecraft:nether/brew_potion",
     "criteria": {

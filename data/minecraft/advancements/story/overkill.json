@@ -4,7 +4,7 @@
 			"item": "minecraft:diamond_sword"
 		},
 		"title": "Overkill",
-		"description": "Deal nine hearts of damage",
+		"description": "Fait 9 coeur de dégat.",
 		"frame": "challenge"
 	},
 	"parent": "minecraft:story/fire_aspect",

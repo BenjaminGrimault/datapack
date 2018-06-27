@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:cactus"
 		},
-		"title": "Water Indpendent",
-		"description": "Harvest a cactus"
+		"title": "Can't touch it !",
+		"description": "Ramasse un cactus."
 	},
 	"parent": "minecraft:husbandry/isugar_cane",
 	"criteria": {

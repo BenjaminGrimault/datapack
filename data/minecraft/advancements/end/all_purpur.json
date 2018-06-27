@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:purpur_pillar"
         },
-        "title": "PurPurfect",
-        "description": "Craft all purpur variants",
+        "title": "Le Pur",
+        "description": "Tous les blocs de purpur !",
         "frame": "goal"
     },
     "parent": "minecraft:end/chorus_fruit",      

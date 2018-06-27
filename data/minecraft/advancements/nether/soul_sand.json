@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:soul_sand"
         },
-        "title": "Spooky Sand",
-        "description": "Mine soul sand"
+        "title": "Sable moche",
+        "description": "Miner de la soul sand (interdit de construire avec)."
     },
     "parent": "minecraft:nether/obtain_blaze_rod",
     "criteria": {

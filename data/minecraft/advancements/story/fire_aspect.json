@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:flint_and_steel"
 		},
-		"title": "Newton's Flaming Laser Sword",
-		"description": "Have a diamond sword with Fire Aspect II"
+		"title": "Epée du diamant enflammé +2",
+		"description": "Obtient une épée en diamant avec Fire Aspect II."
 	},
 	"parent": "minecraft:story/enchant_item",
 	"criteria": {

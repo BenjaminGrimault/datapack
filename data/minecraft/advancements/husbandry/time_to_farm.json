@@ -4,7 +4,7 @@
 			"item": "minecraft:wooden_hoe"
 		},
 		"title": "Time to Farm!",
-		"description": "Craft a hoe"
+		"description": "Crée une faux."
 	},
 	"parent": "minecraft:husbandry/root",
 	"criteria": {

@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "clock"
 		},
-		"title": "What Time Is It?",
-		"description": "Time for you to get a watch!"
+		"title": "Il est quelle heure?",
+		"description": "L'heure de t'acheter une montre!"
 	},
 	"parent": "minecraft:story/iron_tools",
 	"criteria": {

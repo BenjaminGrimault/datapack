@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:pumpkin"
 		},
-		"title": "Pumpkin Patch",
-		"description": "Find and harvest a pumpkin"
+		"title": "Cucurbita pepo pepo",
+		"description": "Récupère une citrouille."
 	},
 	"parent": "minecraft:husbandry/root",
 	"criteria": {

@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:sugar_cane"
 		},
-		"title": "Water Dependent",
-		"description": "Harvest sugar cane"
+		"title": "Du sucre ! des épices !",
+		"description": "Ramasse de la canne à sucre"
 	},
 	"parent": "minecraft:husbandry/root",
 	"criteria": {

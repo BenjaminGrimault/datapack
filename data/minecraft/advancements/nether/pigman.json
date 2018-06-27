@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:cooked_porkchop"
         },
-        "title": "Piggy Biker Gang",
-        "description": "If you mess with one, you mess with all of them"
+        "title": "Le Gang",
+        "description": "Tuez un zombie pigman et regrettez."
     },
     "parent": "minecraft:nether/root",  
     "criteria": {
