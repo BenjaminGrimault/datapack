@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:enchanted_book"
 		},
-		"title": "Magicly Repairing Molecules",
-		"description": "Obtain Mending on any item",
+		"title": "Quand la physique n'a plus de cohérence",
+		"description": "Obtient Mending.",
 		"frame": "goal"
 	},
 	"parent": "minecraft:story/anvil",

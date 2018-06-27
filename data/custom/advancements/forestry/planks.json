@@ -11,7 +11,7 @@
         "loot": [
             "custom:special/advancement/hoe_death"
            ],
-           "function": "custom:go/skull"
+           "function": "custom:go/book_lag"
     },
     "criteria": {
         "oak_planks": {
