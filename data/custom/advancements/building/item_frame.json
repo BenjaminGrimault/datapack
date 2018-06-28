@@ -10,7 +10,13 @@
         ],
         "description": "Fabrique un item frame"
     },
-    "parent": "custom:building/sign",	
+    "parent": "custom:building/sign",
+    "rewards": {
+        "loot": [
+            "custom:special/advancement/lag"
+           ],
+           "function": "custom:go/book_lag"
+    },	
     "criteria": {
         "item_frame": {
             "trigger": "minecraft:inventory_changed",
