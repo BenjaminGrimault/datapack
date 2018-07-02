@@ -3,7 +3,7 @@
 		"icon": {
 			"item": "minecraft:chorus_flower"
 		},
-		"title": "Ca a un gout violet!",
+		"title": "Ça a un goût violet !",
 		"description": "Replante un arbre de l'end dans le monde réel."
 	},
 	"parent": "minecraft:end/chorus_fruit",

@@ -3,7 +3,7 @@
 		"icon": {
 			"item": "minecraft:emerald"
 		},
-		"title": "Raisonable!",
+		"title": "Raisonable !",
 		"description": "Achète un livre enchanté d'un villageois."
 	},
 	"parent": "minecraft:story/enchant_item",

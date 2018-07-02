@@ -3,7 +3,7 @@
 		"icon": {
 			"item": "minecraft:wooden_hoe"
 		},
-		"title": "Time to Farm!",
+		"title": "Time to Farm !",
 		"description": "Crée une faux."
 	},
 	"parent": "minecraft:husbandry/root",

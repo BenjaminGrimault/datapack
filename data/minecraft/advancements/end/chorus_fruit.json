@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:chorus_fruit"
         },
-        "title": "Bucheron de l'extreme",
+        "title": "Bûcheron de l'extrême",
         "description": "Coupe un arbre de l'end."
     },
     "parent": "minecraft:end/enter_end_gateway",	

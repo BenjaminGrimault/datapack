@@ -4,7 +4,7 @@
 			"item": "minecraft:cooked_chicken"
 		},
 		"title": "Thanksgiving 2 : Le festin",
-		"description": "Mange une tarte, une dinde, de la pomme de terre et du pain.",
+		"description": "Mange une tarte, une dinde, de la pomme de terre et du pain. Bonne sieste.",
 		"frame": "goal"
 	},
 	"parent": "minecraft:husbandry/pumpkin_pie",

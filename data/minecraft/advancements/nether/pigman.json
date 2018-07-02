@@ -4,7 +4,7 @@
             "item": "minecraft:cooked_porkchop"
         },
         "title": "Le Gang",
-        "description": "Tuez un zombie pigman et regrettez."
+        "description": "Tue un zombie pigman et regrette."
     },
     "parent": "minecraft:nether/root",  
     "criteria": {

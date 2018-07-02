@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:white_bed"
+            "item": "minecraft:filled_map"
         },
         "title": "Exploration",
         "description": "Je viens te chanter la balade",

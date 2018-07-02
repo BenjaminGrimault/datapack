@@ -4,7 +4,7 @@
 			"item": "minecraft:filled_map"
 		},
 		"title": "Le trésor du capitaine Iglo",
-		"description": "Trouve un trésor enterré (promis ce n'est pas du colin. Je crois)"
+		"description": "Trouve un trésor enterré (promis ce n'est pas du colin ... je crois)"
 	},
 	"parent": "custom:ocean/shipwreck",
 	"criteria": {

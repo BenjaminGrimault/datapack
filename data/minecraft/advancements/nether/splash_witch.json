@@ -4,7 +4,7 @@
             "item": "minecraft:splash_potion"
         },
         "title": "Hansel",
-        "description": "Tue une witch avec une potion splash.",
+        "description": "Tue une sorcière avec une potion splash.",
         "frame": "goal"
     },
     "parent": "minecraft:nether/brew_potion",  

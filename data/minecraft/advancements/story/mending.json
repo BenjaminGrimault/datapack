@@ -4,7 +4,7 @@
 			"item": "minecraft:enchanted_book"
 		},
 		"title": "1er amendement",
-		"description": "Obtient Mending.",
+		"description": "Obtiens Mending.",
 		"frame": "goal"
 	},
 	"parent": "minecraft:story/anvil",

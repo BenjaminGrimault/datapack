@@ -4,7 +4,7 @@
 			"item": "minecraft:cake"
 		},
 		"title": "Le Mensonge",
-		"description": "Fait un gateau."
+		"description": "Fais un gateau."
 	},
 	"parent": "minecraft:husbandry/plant_seed",
 	"criteria": {

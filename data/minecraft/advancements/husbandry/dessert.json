@@ -4,7 +4,7 @@
 			"item": "minecraft:cookie"
 		},
 		"title": "Vivre pour manger",
-		"description": "Manger tout les déserts.",
+		"description": "Mange tout les desserts.",
 		"frame": "goal"
 	},
 	"parent": "minecraft:husbandry/make_cake",

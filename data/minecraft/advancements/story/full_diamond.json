@@ -4,7 +4,7 @@
 			"item": "minecraft:diamond_pickaxe"
 		},
 		"title": "Full T3",
-		"description": "Obtient une armure en diamant et les outils en diamant.",
+		"description": "Obtiens une armure en diamant et les outils en diamant.",
 		"frame": "challenge"
 	},
 	"parent": "minecraft:story/shiny_gear",

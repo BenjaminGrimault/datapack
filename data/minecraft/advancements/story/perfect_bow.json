@@ -4,7 +4,7 @@
             "item": "minecraft:bow"
         },
         "title": "Arc d'Ulysse",
-        "description": "Fait un arc parfait.",
+        "description": "Fais un arc parfait.",
 		"frame": "challenge"
     },
     "parent": "minecraft:story/mending",

@@ -4,7 +4,7 @@
 			"item": "minecraft:wooden_sword"
 		},
 		"title": "Time to Strike !",
-		"description": "Craft a sword"
+		"description": "Fais une épée"
 	},
 	"parent": "custom:combat/root",
 	"criteria": {

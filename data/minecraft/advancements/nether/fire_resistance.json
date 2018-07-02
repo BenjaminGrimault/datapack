@@ -4,7 +4,7 @@
             "item": "minecraft:magma_cream"
         },
         "title": "Pompier",
-        "description": "Boit une potion de résistance au feu."
+        "description": "Bois une potion de résistance au feu."
     },
     "parent": "minecraft:nether/brew_potion",
     "criteria": {

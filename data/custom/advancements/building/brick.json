@@ -4,7 +4,7 @@
             "item": "minecraft:brick"
         },
         "title": "Une brique !",
-        "description": "Une bébé maison !"
+        "description": "Un bébé maison !"
     },
     "parent": "custom:building/clay_ball",		
     "criteria": {

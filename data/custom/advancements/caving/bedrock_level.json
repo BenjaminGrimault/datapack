@@ -4,7 +4,7 @@
 			"item": "minecraft:bedrock"
 		},
 		"title": "Au fond du fun",
-		"description": "Quand vous touchez littéralement le fond"
+		"description": "Quand tu touches littéralement le fond"
 	},
 	"parent": "custom:caving/lava_level",
 	"criteria": {

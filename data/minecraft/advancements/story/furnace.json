@@ -4,7 +4,7 @@
 			"item": "minecraft:furnace"
 		},
 		"title": "Point godwinn",
-		"description": "Fait un four."
+		"description": "Fais un four."
 	},
 	"parent": "minecraft:story/upgrade_tools",
 	"criteria": {

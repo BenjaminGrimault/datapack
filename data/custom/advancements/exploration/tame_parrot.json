@@ -4,7 +4,7 @@
 			"item": "minecraft:wheat_seeds"
 		},
 		"title": "Vivre en pirate c'est ça !",
-		"description": "Apprivoise un péroquet"
+		"description": "Apprivoise un perroquet"
 	},
 	"parent": "custom:exploration/book_and_quill",
 	"criteria": {

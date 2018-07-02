@@ -4,7 +4,7 @@
 			"item": "minecraft:iron_axe"
 		},
 		"title": "Bob le bricoleurXSkyrim",
-		"description": "Obtient chaque outil et arme.",
+		"description": "Obtiens chaque outil et arme.",
 		"frame": "goal"
 	},
 	"parent": "minecraft:story/smelt_iron",

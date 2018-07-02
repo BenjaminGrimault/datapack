@@ -9,7 +9,7 @@
     "parent": "custom:forestry/planks",
 	"rewards": {
 		"loot": [
-		 "custom:special/advancement/stick_of_true"
+		    "custom:special/advancement/stick_of_true"
 		]			
 	},
     "criteria": {

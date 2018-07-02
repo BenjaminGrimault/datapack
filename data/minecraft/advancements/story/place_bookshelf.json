@@ -3,7 +3,7 @@
 		"icon": {
 			"item": "minecraft:bookshelf"
 		},
-		"title": "Ou est la bibliothèque?",
+		"title": "Où est la bibliothèque ?",
 		"description": "Pose une bibliothèque."
 	},
 	"parent": "minecraft:story/enchant_item",

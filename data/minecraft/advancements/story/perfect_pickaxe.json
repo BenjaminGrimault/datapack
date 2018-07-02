@@ -4,7 +4,7 @@
             "item": "minecraft:diamond_pickaxe"
         },
         "title": "Parashu",
-        "description": "Fait une pioche parfaite.",
+        "description": "Fais une pioche parfaite.",
 		"frame": "challenge"
     },
     "parent": "minecraft:story/mending",

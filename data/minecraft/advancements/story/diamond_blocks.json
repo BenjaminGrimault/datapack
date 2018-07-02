@@ -4,7 +4,7 @@
 			"item": "minecraft:diamond_block"
 		},
 		"title": "Bling Bling",
-		"description": "Avoir un stack de block de diamant.",
+		"description": "Avoir un stack de blocks de diamant.",
 		"frame": "challenge"
 	},
 	"parent": "minecraft:story/mine_diamond",

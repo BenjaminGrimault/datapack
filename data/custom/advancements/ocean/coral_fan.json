@@ -4,7 +4,7 @@
 			"item": "minecraft:brain_coral_fan"
 		},
 		"title": "Fan du corail",
-		"description": "Récupere des coral fans"
+		"description": "Récupère des coral fans"
 	},
 	"parent": "custom:ocean/coral",
 	"criteria": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:glass_bottle"
         },
-        "title": "Boit Boit Boit Boit!",
-        "description": "Ai tout les effet de potion au moins une fois durant ta vie",
+        "title": "Bois Bois Bois Bois !",
+        "description": "Aie tout les effet de potion au moins une fois durant ta vie",
 		"frame": "challenge"
     },
     "parent": "minecraft:nether/all_potions",

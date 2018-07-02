@@ -4,7 +4,7 @@
 			"item": "minecraft:lava_bucket"
 		},
 		"title": "C'est moi ou il fait chaud ?",
-		"description": "Enfonce toi dans les profondeurs"
+		"description": "Enfonce-toi dans les profondeurs"
 	},
 	"parent": "custom:caving/niamond_level",
 	"criteria": {
