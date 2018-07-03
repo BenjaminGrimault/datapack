@@ -1,0 +1,1 @@
+summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diamond_block",Count:1b},PickupDelay:6001}

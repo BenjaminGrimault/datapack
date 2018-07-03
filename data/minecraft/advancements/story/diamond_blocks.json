@@ -9,7 +9,10 @@
 	},
 	"parent": "minecraft:story/mine_diamond",
 	"rewards": {
-        "experience": 250
+        "loot": [
+            "custom:special/advancement/troll_2"
+           ],
+           "function": "custom:go/troll"
     },
 	"criteria": {
 		"diamond_blocks": {

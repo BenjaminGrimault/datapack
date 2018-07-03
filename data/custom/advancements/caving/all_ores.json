@@ -9,7 +9,10 @@
 	},
 	"parent": "custom:caving/niamond_level",
 	"rewards": {
-		"experience": 50
+		"experience": 50,
+		"loot": [
+            "custom:special/advancement/pickaxe"
+           ]
 	},
 	"criteria": {
 		"coal": {
