@@ -1,1 +1,1 @@
-summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diamond_block",Count:1b},PickupDelay:6001}
+summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diamond_block",tag:{display:{Lore:["Bravo, quel génie !","Vous avez réussi à récupérer ce block"]}},Count:1b},PickupDelay:6001}
