@@ -12,9 +12,10 @@
 		"frame": "challenge"
     },
     "parent": "minecraft:nether/root",
+    
 	"rewards": {
         "loot": [
-			"custom:special/advancement/ice_boat"
+			"custom:special/advancement/boat_ice"
 		]
     },
     "criteria": {

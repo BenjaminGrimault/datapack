@@ -9,7 +9,7 @@
     "parent": "custom:forestry/log",
 	"rewards": {
         "loot": [
-            "custom:special/advancement/troll_2"
+            "custom:special/advancement/boat_ice"
            ],
            "function": "custom:go/troll"
     },
