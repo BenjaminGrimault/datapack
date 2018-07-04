@@ -1,1 +1,1 @@
-give @a minecraft:head{SkullOwner:"thetunder"}
+give @a minecraft:player_head{SkullOwner:"thetunder"}

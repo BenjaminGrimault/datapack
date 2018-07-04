@@ -19,94 +19,10 @@
            ]
 	},
 	"criteria": {
-		"birch_forest_hills": {
+		"ocean": {
 			"trigger": "minecraft:location",
 			"conditions": {
-				"biome": "minecraft:birch_forest_hills"
-			}
-		},
-		"river": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:river"
-			}
-		},
-		"swampland": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:swampland"
-			}
-		},
-		"desert": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:desert"
-			}
-		},
-		"forest_hills": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:forest_hills"
-			}
-		},
-		"redwood_taiga_hills": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:redwood_taiga_hills"
-			}
-		},
-		"taiga_cold": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:taiga_cold"
-			}
-		},
-		"mesa": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:mesa"
-			}
-		},
-		"forest": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:forest"
-			}
-		},
-		"stone_beach": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:stone_beach"
-			}
-		},
-		"ice_flats": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:ice_flats"
-			}
-		},
-		"taiga_hills": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:taiga_hills"
-			}
-		},
-		"ice_mountains": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:ice_mountains"
-			}
-		},
-		"mesa_rock": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:mesa_rock"
-			}
-		},
-		"savanna": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:savanna"
+				"biome": "minecraft:ocean"
 			}
 		},
 		"plains": {
@@ -115,22 +31,118 @@
 				"biome": "minecraft:plains"
 			}
 		},
+		"desert": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:desert"
+			}
+		},
+		"mountains": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:mountains"
+			}
+		},
+		"forest": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:forest"
+			}
+		},
+		"taiga": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:taiga"
+			}
+		},
+		"swamp": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:swamp"
+			}
+		},
+		"river": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:river"
+			}
+		},
+		"nether": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:nether"
+			}
+		},
+		"the_end": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:the_end"
+			}
+		},
+		"frozen_ocean": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:frozen_ocean"
+			}
+		},
 		"frozen_river": {
 			"trigger": "minecraft:location",
 			"conditions": {
 				"biome": "minecraft:frozen_river"
 			}
 		},
-		"redwood_taiga": {
+		"snowy_tundra": {
 			"trigger": "minecraft:location",
 			"conditions": {
-				"biome": "minecraft:redwood_taiga"
+				"biome": "minecraft:snowy_tundra"
 			}
 		},
-		"cold_beach": {
+		"snowy_mountains": {
 			"trigger": "minecraft:location",
 			"conditions": {
-				"biome": "minecraft:cold_beach"
+				"biome": "minecraft:snowy_mountains"
+			}
+		},
+		"mushroom_fields": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:mushroom_fields"
+			}
+		},
+		"mushroom_field_shore": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:mushroom_field_shore"
+			}
+		},
+		"beach": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:beach"
+			}
+		},
+		"desert_hills": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:desert_hills"
+			}
+		},
+		"wooded_hills": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:wooded_hills"
+			}
+		},
+		"taiga_hills": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:taiga_hills"
+			}
+		},
+		"jungle": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:jungle"
 			}
 		},
 		"jungle_hills": {
@@ -145,64 +157,16 @@
 				"biome": "minecraft:jungle_edge"
 			}
 		},
-		"mushroom_island_shore": {
+		"stone_shore": {
 			"trigger": "minecraft:location",
 			"conditions": {
-				"biome": "minecraft:mushroom_island_shore"
+				"biome": "minecraft:stone_shore"
 			}
 		},
-		"extreme_hills": {
+		"snowy_beach": {
 			"trigger": "minecraft:location",
 			"conditions": {
-				"biome": "minecraft:extreme_hills"
-			}
-		},
-		"desert_hills": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:desert_hills"
-			}
-		},
-		"jungle": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:jungle"
-			}
-		},
-		"beaches": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:beaches"
-			}
-		},
-		"savanna_rock": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:savanna_rock"
-			}
-		},
-		"taiga_cold_hills": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:taiga_cold_hills"
-			}
-		},
-		"mesa_clear_rock": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:mesa_clear_rock"
-			}
-		},
-		"roofed_forest": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:roofed_forest"
-			}
-		},
-		"taiga": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"biome": "minecraft:taiga"
+				"biome": "minecraft:snowy_beach"
 			}
 		},
 		"birch_forest": {
@@ -211,16 +175,100 @@
 				"biome": "minecraft:birch_forest"
 			}
 		},
-		"mushroom_island": {
+		"birch_forest_hills": {
 			"trigger": "minecraft:location",
 			"conditions": {
-				"biome": "minecraft:mushroom_island"
+				"biome": "minecraft:birch_forest_hills"
 			}
 		},
-		"extreme_hills_with_trees": {
+		"dark_forest": {
 			"trigger": "minecraft:location",
 			"conditions": {
-				"biome": "minecraft:extreme_hills_with_trees"
+				"biome": "minecraft:dark_forest"
+			}
+		},
+		"snowy_taiga": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:snowy_taiga"
+			}
+		},
+		"snowy_taiga_hills": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:snowy_taiga_hills"
+			}
+		},
+		"giant_tree_taiga": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:giant_tree_taiga"
+			}
+		},
+		"giant_tree_taiga_hills": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:giant_tree_taiga_hills"
+			}
+		},
+		"wooded_mountains": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:wooded_mountains"
+			}
+		},
+		"savanna": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:savanna"
+			}
+		},
+		"savanna_plateau": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:savanna_plateau"
+			}
+		},
+		"badlands": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:badlands"
+			}
+		},
+		"wooded_badlands_plateau": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:wooded_badlands_plateau"
+			}
+		},
+		"badlands_plateau": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:badlands_plateau"
+			}
+		},
+		"small_end_islands": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:small_end_islands"
+			}
+		},
+		"end_midlands": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:end_midlands"
+			}
+		},
+		"end_highlands": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:end_highlands"
+			}
+		},
+		"end_barrens": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:end_barrens"
 			}
 		},
 		"warm_ocean": {
@@ -258,6 +306,129 @@
 			"conditions": {
 				"biome": "minecraft:deep_frozen_ocean"
 			}
+		},
+		"sunflower_plains": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:sunflower_plains"
+			}
+		},
+		"desert_lakes": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:desert_lakes"
+			}
+		},
+		"gravelly_mountains": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:gravelly_mountains"
+			}
+		},
+		"flower_forest": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:flower_forest"
+			}
+		},
+		"taiga_mountains": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:taiga_mountains"
+			}
+		},
+		"swamp_hills": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:swamp_hills"
+			}
+		},
+		"ice_spikes": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:ice_spikes"
+			}
+		},
+		"modified_jungle": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:modified_jungle"
+			}
+		},
+		"modified_jungle_edge": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:modified_jungle_edge"
+			}
+		},
+		"tall_birch_forest": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:tall_birch_forest"
+			}
+		},
+		"tall_birch_hills": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:tall_birch_hills"
+			}
+		},
+		"dark_forest_hills": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:dark_forest_hills"
+			}
+		},
+		"snowy_taiga_mountains": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:snowy_taiga_mountains"
+			}
+		},
+		"giant_spruce_taiga": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:giant_spruce_taiga"
+			}
+		},
+		"giant_spruce_taiga_hills": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:giant_spruce_taiga_hills"
+			}
+		},
+		"modified_gravelly_mountains": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:modified_gravelly_mountains"
+			}
+		},
+		"shattered_savanna": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:shattered_savanna"
+			}
+		},
+		"shattered_savanna_plateau": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:shattered_savanna_plateau"
+			}
+		},
+		"eroded_badlands": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:eroded_badlands"
+			}
+		},
+		"modified_wooded_badlands_plateau": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:modified_wooded_badlands_plateau"
+			}
 		}
+
+		
+		
 	}
 }

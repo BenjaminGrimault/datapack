@@ -4,7 +4,7 @@
 			"item": "minecraft:iron_block"
 		},
 		"title": "Rekt !",
-		"description": "Meurs par un golem défendant son village",
+		"description": "Meurs par un golem défendant son village.",
 		"frame": "goal"
 	},
 	"parent": "custom:exploration/build_iron_golem",
@@ -18,7 +18,7 @@
 			"trigger": "minecraft:entity_killed_player",
 			"conditions": {
 				"entity": {
-					"type": "minecraft:villager_golem"
+					"type": "minecraft:iron_golem"
 				}
 			}
 		}

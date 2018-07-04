@@ -24,7 +24,7 @@
 			"trigger": "minecraft:fishing_rod_hooked",
 			"conditions": {
 				"item": {
-					"item": "minecraft:clownfish"
+					"item": "minecraft:tropical_fish"
 				}
 			}
 		},

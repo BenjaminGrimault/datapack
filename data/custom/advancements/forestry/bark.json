@@ -1,10 +1,10 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:dark_oak_bark"
+            "item": "minecraft:dark_oak_wood"
         },
         "title": "Ferrero",
-        "description": "Crée un bark"
+        "description": "Crée un morceau de bois recouvert d'écorce."
     },
     "parent": "custom:forestry/log",	
     "criteria": {
@@ -13,7 +13,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:oak_bark"
+                        "item": "minecraft:oak_wood"
                     }
                 ]
             }
@@ -23,7 +23,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:spruce_bark"
+                        "item": "minecraft:spruce_wood"
                     }
                 ]
             }
@@ -33,7 +33,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:birch_bark"
+                        "item": "minecraft:birch_wood"
                     }
                 ]
             }
@@ -43,7 +43,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:jungle_bark"
+                        "item": "minecraft:jungle_wood"
                     }
                 ]
             }
@@ -53,7 +53,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:acacia_bark"
+                        "item": "minecraft:acacia_wood"
                     }
                 ]
             }
@@ -63,7 +63,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:dark_oak_bark"
+                        "item": "minecraft:dark_oak_wood"
                     }
                 ]
             }

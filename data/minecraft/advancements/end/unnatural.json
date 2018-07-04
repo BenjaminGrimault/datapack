@@ -13,7 +13,7 @@
 			"conditions": {
 				"block": "minecraft:chorus_flower",
 				"location": {
-					"dimension": "overworld"
+					"dimension": "the_end"
 				}
 			}
 		}

@@ -8,23 +8,23 @@
 	},
 	"parent": "custom:exploration/make_map",
 	"criteria": {
-		"mushroom_biome": {
+		"mushroom_fields": {
 			"trigger": "minecraft:location",
 			"conditions": {
-				"biome": "minecraft:mushroom_island"
+				"biome": "minecraft:mushroom_fields"
 			}
 		},
-		"mushroom_shore": {
+		"mushroom_field_shore": {
 			"trigger": "minecraft:location",
 			"conditions": {
-				"biome": "minecraft:mushroom_island_shore"
+				"biome": "minecraft:mushroom_field_shore"
 			}
 		}
 	},
 	"requirements": [
 		[
-			"mushroom_biome",
-			"mushroom_shore"
+			"mushroom_fields",
+			"mushroom_field_shore"
 		]
 	]
 }

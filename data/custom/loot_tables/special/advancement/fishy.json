@@ -27,7 +27,7 @@
                 },
 				{
                     "type": "item",
-                    "name": "minecraft:clownfish",
+                    "name": "minecraft:tropical_fish",
                     "weight": 2,
                     "functions": [
                         {
