@@ -14,7 +14,8 @@
     "parent": "minecraft:nether/return_to_sender",
 	"rewards": {
         "loot": [
-			"custom:special/advancement/fire_stick"
+			"custom:special/advancement/fire_stick",
+			"custom:special/advancement/fire_stick_manual"
 		]
     },
     "criteria": {

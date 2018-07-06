@@ -1,0 +1,24 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:carrot_on_a_stick",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Bâton qui crache du feu\\\",\\\"color\\\":\\\"gold\\\",\\\"bold\\\":\\\"true\\\"}\",Lore:[\"RTFM !\"]}}"
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{custom_type:\"fire_ball_rod\"}"
+						}
+                    ]
+                }
+            ]
+        }
+    ]
+}

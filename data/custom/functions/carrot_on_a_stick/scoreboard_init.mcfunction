@@ -7,7 +7,3 @@ scoreboard objectives add carrotonastick minecraft.used:minecraft.carrot_on_a_st
 # Cooldown
 scoreboard objectives remove cooldown
 scoreboard objectives add cooldown dummy
-
-# ToDo delete
-scoreboard objectives setdisplay sidebar carrotonastick
-scoreboard objectives setdisplay sidebar cooldown
