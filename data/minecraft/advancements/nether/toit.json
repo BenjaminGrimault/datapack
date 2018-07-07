@@ -11,7 +11,7 @@
 		"toit": {
 			"trigger": "minecraft:location",
 			"conditions": {
-                "dimension": "nether",
+                "dimension": "the_nether",
                 "position": {
 					"y": {
 						"min": 128
