@@ -6,7 +6,12 @@
         "title": "Distributeur",
         "description": "Crée et place un dispenser"
     },
-    "parent": "custom:redstone/dropper",	
+    "parent": "custom:redstone/dropper",
+    "rewards": {
+        "loot": [
+            "custom:special/advancement/dispenser_loot"
+           ]
+    },	
     "criteria": {
         "dispenser": {
             "trigger": "minecraft:placed_block",

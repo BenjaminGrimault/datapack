@@ -7,6 +7,11 @@
         "description": "Crée et pose un detector rail"
     },
     "parent": "custom:redstone/pressure_plate",	
+    "rewards": {
+        "loot": [
+            "custom:special/advancement/detector_rail_loot"
+           ]
+    },
     "criteria": {
         "detector_rail": {
             "trigger": "minecraft:placed_block",

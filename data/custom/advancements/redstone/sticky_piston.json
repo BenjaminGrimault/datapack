@@ -7,6 +7,11 @@
         "description": "Crée et place un sticky piston"
     },
     "parent": "custom:redstone/piston",
+    "rewards": {
+        "loot": [
+            "custom:special/advancement/sticky_piston_loot"
+           ]
+    },
     "criteria": {
         "piston": {
             "trigger": "minecraft:placed_block",

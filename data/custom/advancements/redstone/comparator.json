@@ -7,6 +7,11 @@
         "description": "Crée et pose un comparateur"
     },
     "parent": "custom:redstone/repeater",
+    "rewards": {
+        "loot": [
+            "custom:special/advancement/comparator_loot"
+           ]
+    },
     "criteria": {
         "comparator": {
             "trigger": "minecraft:placed_block",

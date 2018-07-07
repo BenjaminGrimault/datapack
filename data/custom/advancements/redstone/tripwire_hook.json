@@ -7,6 +7,11 @@
 		"description": "Crée un tripwire hook"
 	},
 	"parent": "custom:redstone/pressure_plate",
+	"rewards": {
+        "loot": [
+            "custom:special/advancement/tripwire_hook_loot"
+           ]
+    },
 	"criteria": {
 		"tripwire": {
 			"trigger": "minecraft:inventory_changed",

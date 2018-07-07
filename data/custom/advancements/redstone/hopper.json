@@ -7,6 +7,11 @@
         "description": "Crée et place un hopper"
     },
     "parent": "custom:redstone/root",
+    "rewards": {
+        "loot": [
+            "custom:special/advancement/hopper_loot"
+           ]
+    },
     "criteria": {
         "hopper": {
             "trigger": "minecraft:placed_block",

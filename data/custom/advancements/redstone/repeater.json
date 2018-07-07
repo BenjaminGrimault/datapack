@@ -7,6 +7,11 @@
         "description": "Crée et place un repeater"
     },
     "parent": "custom:redstone/redstone_torch",
+    "rewards": {
+        "loot": [
+            "custom:special/advancement/repeater_loot"
+           ]
+    },
     "criteria": {
         "repeater": {
             "trigger": "minecraft:placed_block",

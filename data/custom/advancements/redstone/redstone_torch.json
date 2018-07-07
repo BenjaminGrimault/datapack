@@ -7,6 +7,11 @@
         "description": "Crée et place une redstone torch"
     },
     "parent": "custom:redstone/root",
+    "rewards": {
+        "loot": [
+            "custom:special/advancement/redstone_torch_loot"
+           ]
+    },
     "criteria": {
         "redstone_torch": {
             "trigger": "minecraft:placed_block",

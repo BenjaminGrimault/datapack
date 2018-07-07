@@ -6,7 +6,12 @@
         "title": "Ils vous observent",
         "description": "Crée et place un observer"
     },
-    "parent": "custom:redstone/dispenser",	
+    "parent": "custom:redstone/dispenser",
+    "rewards": {
+        "loot": [
+            "custom:special/advancement/observer_loot"
+           ]
+    },	
     "criteria": {
         "observer": {
             "trigger": "minecraft:placed_block",
