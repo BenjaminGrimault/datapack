@@ -1,0 +1,25 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:bedrock"
+		},
+		"title": "Le calme de l’enfer",
+		"description": "Tu n’es pas là pour les champignons, toi !"
+	},
+	"parent": "minecraft:nether/find_fortress",
+	"criteria": {
+		"toit": {
+			"trigger": "minecraft:location",
+			"conditions": {
+                "dimension": "nether",
+                "position": {
+					"y": {
+						"min": 128
+                    }
+                    
+                }
+                
+			}
+		}
+	}
+}
