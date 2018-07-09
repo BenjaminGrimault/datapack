@@ -13,7 +13,6 @@
 	},
 	"parent": "custom:exploration/mushroom_island",
 	"rewards": {
-		"experience": 500,
 		"loot": [
             "custom:special/advancement/boots"
            ]

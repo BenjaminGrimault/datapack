@@ -10,7 +10,7 @@
 	"parent": "custom:exploration/build_iron_golem",
 	"rewards": {
 		"loot": [
-		 "custom:special/advancement/poppy"
+		 	"custom:special/advancement/poppy"
 		]			
 	},
 	"criteria": {

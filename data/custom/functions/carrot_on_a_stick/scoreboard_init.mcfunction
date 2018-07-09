@@ -1,5 +1,3 @@
-say "Add carrotonastick scoreboard objectives"
-
 # Right-click detection
 scoreboard objectives remove carrotonastick
 scoreboard objectives add carrotonastick minecraft.used:minecraft.carrot_on_a_stick
