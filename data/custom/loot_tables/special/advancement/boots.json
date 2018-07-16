@@ -22,13 +22,13 @@
                                      "operation": "addition",
                                      "slot": [
                                        "feet"
-                                     ]
-                                 }
-                             ]
-                         },
-                         {
+                                    ]
+                                }
+                            ]
+                        },
+                        {
                             "function": "set_nbt",
-                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Bottes de Bob Morane\\\",\\\"color\\\":\\\"red\\\",\\\"bold\\\":\\\"true\\\"}\",Lore:[\"Tel l'aventurier solitaire,\",\"vous etes le roi de la Terre.\"]}}"
+                            "tag": "{display:{Name:\"{\\\"text\\\":\\\"Bottes de Bob Morane\\\",\\\"color\\\":\\\"red\\\",\\\"bold\\\":\\\"true\\\"}\",Lore:[\"Tel l'aventurier solitaire,\",\"vous êtes le roi de la Terre.\"]}}"
                         },
                         {
                             "function": "set_nbt",
@@ -37,6 +37,14 @@
                         {
                             "function": "set_nbt",
                             "tag": "{HideFlags:2}"
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{Unbreakable:1}"
+                        },
+                        {
+                            "function": "set_nbt",
+                            "tag": "{JumpBoost:2}"
                         }
                     ]
                 }

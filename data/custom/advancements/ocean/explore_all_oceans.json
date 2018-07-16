@@ -9,7 +9,7 @@
 	},
 	"parent": "custom:ocean/riptide",
 	"rewards": {
-		"experience": 250
+		"function": "custom:go/hollandais_volant"
 	},
 	"criteria": {
 		"ocean": {

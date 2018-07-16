@@ -10,7 +10,7 @@
 	"parent": "custom:ocean/cooked_fish",
 	"rewards": {
 		"loot": [
-		 "custom:special/advancement/fishy"
+		 	"custom:special/advancement/fishy"
 		]			
 	},
 	"criteria": {

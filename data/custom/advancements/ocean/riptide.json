@@ -4,7 +4,7 @@
 			"item": "minecraft:trident"
 		},
 		"title": "Le saumon humain",
-		"description": "Déplace toi grace à l'enchantement Riptide"
+		"description": "Déplace-toi grâce à l'enchantement Riptide"
 	},
 	"parent": "custom:ocean/bubble_column",
 	"criteria": {
