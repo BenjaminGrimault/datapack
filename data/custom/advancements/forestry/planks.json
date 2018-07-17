@@ -8,10 +8,7 @@
     },
     "parent": "custom:forestry/log",
 	"rewards": {
-        "loot": [
-            "custom:special/advancement/boots"
-           ],
-           "function": "custom:go/troll"
+           "function": "custom:go/skull"
     },
     "criteria": {
         "oak_planks": {
