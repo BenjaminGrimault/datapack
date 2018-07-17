@@ -4,7 +4,7 @@
             "item": "minecraft:ladder"
         },
         "title": "Aller plus haut",
-        "description": "Crée une échelle"
+        "description": "Installe une échelle"
     },
     "parent": "custom:forestry/stick",	     
     "criteria": {
