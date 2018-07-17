@@ -5,7 +5,7 @@
         },
         "title": "Les grottes",
         "description": "Dans l'obscurité la plus sombre",
-        "background": "minecraft:textures/blocks/stone.png",
+        "background": "minecraft:textures/block/stone.png",
         "show_toast": false,
         "announce_to_chat": false
     },

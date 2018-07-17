@@ -5,7 +5,7 @@
         },
         "title": "Ocean",
         "description": "Sous l'océan !",
-        "background": "minecraft:textures/blocks/prismarine_bricks.png",
+        "background": "minecraft:textures/block/prismarine_bricks.png",
         "show_toast": false,
         "announce_to_chat": false
     },
