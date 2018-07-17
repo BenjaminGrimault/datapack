@@ -4,7 +4,7 @@
             "item": "minecraft:bricks"
         },
         "title": "Construction",
-        "description": "Construis, décore, fais du beau!",
+        "description": "Construis, décore, fais du beau !",
         "background": "minecraft:textures/block/bricks.png",
         "show_toast": false,
         "announce_to_chat": false
