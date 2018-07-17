@@ -1,1 +1,2 @@
-give @a minecraft:player_head{SkullOwner:"thetunder"}
+give @s minecraft:player_head{SkullOwner:"thetunder",display:{Name:"\"La modestie\"",Lore:["Cet advancement a permis de tester","toutes les récompenses. Gloire à lui!"]}}
+give @s minecraft:player_head{SkullOwner:"Mahharil",display:{Name:"\"Dieu\"",Lore:["N'oubliez pas de prier votre dieu.","Gloire à lui!"]}}
