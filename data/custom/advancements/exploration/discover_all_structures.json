@@ -14,12 +14,6 @@
 		]
     },
 	"criteria": {
-		"buried_treasure": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"feature": "Buried_Treasure"
-			}
-		},
 		"desert_temple": {
 			"trigger": "minecraft:location",
 			"conditions": {
@@ -66,18 +60,6 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"feature": "Monument"
-			}
-		},
-		"ocean_ruin": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"feature": "Ocean_Ruin"
-			}
-		},
-		"shipwreck": {
-			"trigger": "minecraft:location",
-			"conditions": {
-				"feature": "Shipwreck"
 			}
 		},
 		"stronghold": {
