@@ -4,7 +4,7 @@
 			"item": "minecraft:salmon"
 		},
 		"title": "Un vrai sport",
-		"description": "Attrape un vrai poisson avec une cane à peche."
+		"description": "Attrape un vrai poisson avec une canne à peche."
 	},
 	"parent": "custom:ocean/fishy_business",
 	"criteria": {
